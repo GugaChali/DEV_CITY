@@ -5,13 +5,11 @@
 **"It's not just a game. Choose a Dev City legend. Or take a selfie and become one."**  
 **"Não é só um jogo. Escolha uma lenda de Dev City. Ou tire uma selfie e vire uma."**
 
-<p>
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Puter.js" />
-  <img src="https://shields.io" alt="License" />
-</p>
+## 🛠️ Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 [🇺🇸 English](#-english) • [🇧🇷 Português](#-português)
 
